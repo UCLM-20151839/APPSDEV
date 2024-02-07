@@ -1,0 +1,17 @@
+C:\Users\Emel\source\repos\Learnings\Learnings\bin\Debug\net8.0-windows\Learnings.exe
+C:\Users\Emel\source\repos\Learnings\Learnings\bin\Debug\net8.0-windows\Learnings.deps.json
+C:\Users\Emel\source\repos\Learnings\Learnings\bin\Debug\net8.0-windows\Learnings.runtimeconfig.json
+C:\Users\Emel\source\repos\Learnings\Learnings\bin\Debug\net8.0-windows\Learnings.dll
+C:\Users\Emel\source\repos\Learnings\Learnings\bin\Debug\net8.0-windows\Learnings.pdb
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\Learnings.Form1.resources
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\Learnings.csproj.GenerateResource.cache
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\Learnings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\Learnings.AssemblyInfoInputs.cache
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\Learnings.AssemblyInfo.cs
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\Learnings.csproj.CoreCompileInputs.cache
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\Learnings.dll
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\refint\Learnings.dll
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\Learnings.pdb
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\Learnings.genruntimeconfig.cache
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\ref\Learnings.dll
+C:\Users\Emel\source\repos\Learnings\Learnings\obj\Debug\net8.0-windows\Learnings.Properties.Resources.resources
